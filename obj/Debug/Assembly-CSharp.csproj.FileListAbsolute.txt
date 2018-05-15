@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\RF Explorer\UnityRFE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RF Explorer\UnityRFE-2018-05-03\UnityRFE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RF Explorer\UnityRFE-2018-05-04\UnityRFE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RF Explorer\UnityRFE-2018-05-08\UnityRFE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RF Explorer\UnityRFE-2018-05-09\UnityRFE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
